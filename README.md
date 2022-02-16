@@ -11,3 +11,5 @@ Use `flex` to layout a piano keyboard.
 You will need to sort out my frequencies as I have made a mistake somewhere.
 
 ![audio mapping](https://user-images.githubusercontent.com/4499581/154311143-b580b3a0-b037-4cc5-8f2f-ddf63bc914b1.png)
+
+[Play with the demo](https://bmordan.github.io/js-piano)
